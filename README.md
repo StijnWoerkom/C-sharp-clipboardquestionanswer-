@@ -31,5 +31,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##Author
+## Author
 The Clipboard Assistant is a simple C# program based on a idea from Teun van den Broek. Contact him by creating an issue on Github. 
